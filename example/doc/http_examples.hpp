@@ -910,7 +910,7 @@ read_and_print_body(
 
 //[example_read_large_response_body
 
-/*  This function uses custom size limit of the resposne body.
+/*  This function uses custom size limit of the response body.
     The key method is 'body_limit' of the parser.
     body_limit is expressed in bytes.
 */
